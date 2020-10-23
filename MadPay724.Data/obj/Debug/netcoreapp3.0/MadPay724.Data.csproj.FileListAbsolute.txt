@@ -1,0 +1,17 @@
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Data\bin\Debug\netcoreapp3.0\MadPay724.Data.deps.json
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Data\bin\Debug\netcoreapp3.0\MadPay724.Data.dll
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Data\bin\Debug\netcoreapp3.0\MadPay724.Data.pdb
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Data\obj\Debug\netcoreapp3.0\MadPay724.Data.csproj.CoreCompileInputs.cache
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Data\obj\Debug\netcoreapp3.0\MadPay724.Data.AssemblyInfoInputs.cache
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Data\obj\Debug\netcoreapp3.0\MadPay724.Data.AssemblyInfo.cs
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Data\obj\Debug\netcoreapp3.0\MadPay724.Data.dll
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Data\obj\Debug\netcoreapp3.0\MadPay724.Data.pdb
+D:\web_dev\Shahrak\files\ProjectFile\MadPay724-Server\MadPay724.Data\bin\Debug\netcoreapp3.0\MadPay724.Data.deps.json
+D:\web_dev\Shahrak\files\ProjectFile\MadPay724-Server\MadPay724.Data\bin\Debug\netcoreapp3.0\MadPay724.Data.dll
+D:\web_dev\Shahrak\files\ProjectFile\MadPay724-Server\MadPay724.Data\bin\Debug\netcoreapp3.0\MadPay724.Data.pdb
+D:\web_dev\Shahrak\files\ProjectFile\MadPay724-Server\MadPay724.Data\obj\Debug\netcoreapp3.0\MadPay724.Data.csprojAssemblyReference.cache
+D:\web_dev\Shahrak\files\ProjectFile\MadPay724-Server\MadPay724.Data\obj\Debug\netcoreapp3.0\MadPay724.Data.AssemblyInfoInputs.cache
+D:\web_dev\Shahrak\files\ProjectFile\MadPay724-Server\MadPay724.Data\obj\Debug\netcoreapp3.0\MadPay724.Data.AssemblyInfo.cs
+D:\web_dev\Shahrak\files\ProjectFile\MadPay724-Server\MadPay724.Data\obj\Debug\netcoreapp3.0\MadPay724.Data.csproj.CoreCompileInputs.cache
+D:\web_dev\Shahrak\files\ProjectFile\MadPay724-Server\MadPay724.Data\obj\Debug\netcoreapp3.0\MadPay724.Data.dll
+D:\web_dev\Shahrak\files\ProjectFile\MadPay724-Server\MadPay724.Data\obj\Debug\netcoreapp3.0\MadPay724.Data.pdb

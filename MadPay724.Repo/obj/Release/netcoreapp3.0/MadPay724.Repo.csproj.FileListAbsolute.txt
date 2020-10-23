@@ -1,0 +1,14 @@
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\bin\Release\netcoreapp3.0\MadPay724.Repo.deps.json
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\bin\Release\netcoreapp3.0\MadPay724.Repo.dll
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\bin\Release\netcoreapp3.0\MadPay724.Repo.pdb
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\bin\Release\netcoreapp3.0\MadPay724.Common.dll
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\bin\Release\netcoreapp3.0\MadPay724.Data.dll
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\bin\Release\netcoreapp3.0\MadPay724.Common.pdb
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\bin\Release\netcoreapp3.0\MadPay724.Data.pdb
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\obj\Release\netcoreapp3.0\MadPay724.Repo.csprojAssemblyReference.cache
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\obj\Release\netcoreapp3.0\MadPay724.Repo.csproj.CoreCompileInputs.cache
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\obj\Release\netcoreapp3.0\MadPay724.Repo.AssemblyInfoInputs.cache
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\obj\Release\netcoreapp3.0\MadPay724.Repo.AssemblyInfo.cs
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\obj\Release\netcoreapp3.0\MadPay724.Repo.csproj.CopyComplete
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\obj\Release\netcoreapp3.0\MadPay724.Repo.dll
+E:\Daneshjooyar\Project\MadPay724\MadPay724.Repo\obj\Release\netcoreapp3.0\MadPay724.Repo.pdb

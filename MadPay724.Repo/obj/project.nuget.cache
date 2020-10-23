@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zO8Z/GWtD8ywqqoXFHmxKuK1Qt333/G8Svnp4f5Y1ejgrFD+skNPGgUKeKLxercVXlh8mUa5ef1W5rSsrzTGSw==",
+  "success": true,
+  "projectFilePath": "D:\\web_dev\\Shahrak\\files\\ProjectFile\\MadPay724-Server\\MadPay724.Repo\\MadPay724.Repo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\btat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\btat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\btat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
